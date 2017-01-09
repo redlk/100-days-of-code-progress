@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<head>
+<style>
+a {
+  color: grey;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <div class="text-center">
+          <h1>Dieter Rams</h1>
+          <h2><em>Less but better.</em></h2></div>
+      </div>
+
+      <div class="col-sm-12">
+        <div class="thumbnail"><img src="https://d2lsod3xpjaepj.cloudfront.net/files/assets/2000/1328/crop169/650_2x.jpg"></div>
+      </div>
+
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <p>Dieter Rams is a German industrial designer closely associated with the consumer products company Braun and the Functionalist school of industrial design. Rams once explained his design approach in the phrase "Weniger, aber besser" which freely
+          translates as "Less, but better". Many of his designs — coffee makers, calculators, radios, audio/visual equipment, consumer appliances and office products — have found a permanent home at many museums over the world, including MoMA in New York.
+          For nearly 30 years Dieter Rams served as head of design for Braun A.G. until his retirement in 1998.</p>
+      </div>
+
+
+      <div class="col-sm-4">
+        <div class="thumbnail"><img src="http://g.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/03/3043815-inline-i-1-dieter-rams-if-i-could-do-it-again-i-would-not-want-to-be-a-designer.jpg"></div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="thumbnail"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7a85fd8273975.560ba45f1892d.png"></div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="thumbnail"><img src="https://a.1stdibscdn.com/archivesE/upload/9836/21_13/dsc_0379a/DSC_0379a_l.jpg"></div>
+      </div>
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <h2>Ten principles of Good Design by Dieter Rams</h2>
+        <h3><ul>
+<li>Is innovative.</li>
+<li>Makes a product useful.</li>
+<li>Is aesthetic.</li>
+<li>Makes a product understandable.</li>
+<li>Is unobtrusive.</li>
+<li>Is honest.</li>
+<li>Is long-lasting.</li>
+<li>Is thorough down to the last detail.</li>
+<li>Is environmentally friendly.</li>
+<li>Is as little design as possible.</li>
+</ul></h3>
+
+        <blockquote>
+          <p>Good design is making something intelligible and memorable. Great design is making something memorable and meaningful.
+            <p>
+              <footer><cite>Dieter Rams</cite></blockquote>
+        <h3>Want to know more? Read more or less about Dieter Rams on <a href="https://en.wikipedia.org/wiki/Dieter_Rams" target="_blank">Wikipedia</a>.</h3>
+      </div>
+
+    </div>
+  </div>
+</div>
+</body>
+</html>
